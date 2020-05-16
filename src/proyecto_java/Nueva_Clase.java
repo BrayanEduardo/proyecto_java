@@ -9,6 +9,6 @@ package proyecto_java;
  *
  * @author bf247
  */
-public class Brayan_Eduardo {
+public class Nueva_Clase {
     
 }
